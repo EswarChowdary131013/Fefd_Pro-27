@@ -25,7 +25,7 @@ const mockActivities: Activity[] = [
     location: "Main Gymnasium",
     capacity: 25,
     enrolled: 18,
-    instructor: "Coach Mike Johnson",
+    instructor: "Rajesh Nichenametla",
     status: "upcoming"
   },
   {
@@ -38,7 +38,7 @@ const mockActivities: Activity[] = [
     location: "Tech Lab 201",
     capacity: 15,
     enrolled: 12,
-    instructor: "Dr. Sarah Chen",
+    instructor: "Rajesh Nichenametla",
     status: "upcoming"
   },
   {
@@ -51,7 +51,7 @@ const mockActivities: Activity[] = [
     location: "Auditorium",
     capacity: 30,
     enrolled: 22,
-    instructor: "Ms. Emily Rodriguez",
+    instructor: "Rajesh Nichenametla",
     status: "ongoing"
   },
   {
@@ -64,7 +64,7 @@ const mockActivities: Activity[] = [
     location: "Room 305",
     capacity: 20,
     enrolled: 16,
-    instructor: "Prof. David Kim",
+    instructor: "Rajesh Nichenametla",
     status: "upcoming"
   },
   {
@@ -77,7 +77,7 @@ const mockActivities: Activity[] = [
     location: "School Garden",
     capacity: 12,
     enrolled: 8,
-    instructor: "Ms. Rachel Green",
+    instructor: "Rajesh Nichenametla",
     status: "upcoming"
   },
   {
@@ -90,7 +90,7 @@ const mockActivities: Activity[] = [
     location: "Library",
     capacity: 24,
     enrolled: 24,
-    instructor: "Mr. Alex Petrov",
+    instructor: "Rajesh Nichenametla",
     status: "completed"
   }
 ];
